@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ಸುವಿಧಾ</string>
+    <string name="app_title">ಗ್ರಾಮ-ಸುವಿಧಾ ಪೋರ್ಟಲ್</string>
+    <string name="budget">ಬಜೆಟ್:</string>
+    <string name="target_date">ಗುರಿ ದಿನಾಂಕ:</string>
+    <string name="progress">ಪ್ರಗತಿ:</string>
+    <string name="report_issue">ದೂರು ಸಲ್ಲಿಸಿ</string>
+    <string name="status_completed">ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="status_in_progress">ಪ್ರಗತಿಯಲ್ಲಿದೆ</string>
+    <string name="status_started">ಪ್ರಾರಂಭಿಸಲಾಗಿದೆ</string>
+    <string name="search_placeholder">ಯೋಜನೆಗಳನ್ನು ಹುಡುಕಿ...</string>
+    <string name="citizen_rating">ನಾಗರಿಕರ ರೇಟಿಂಗ್:</string>
+    <string name="submit">ಸಲ್ಲಿಸಿ</string>
+    <string name="cancel">ರದ್ದುಗೊಳಿಸಿ</string>
+    <string name="close">ಮುಚ್ಚಿ</string>
+    <string name="describe_issue">ಸಮಸ್ಯೆಯನ್ನು ವಿವರಿಸಿ...</string>
+    <string name="filter_all">ಎಲ್ಲಾ</string>
+    <string name="filter_ongoing">ಪ್ರಗತಿಯಲ್ಲಿದೆ</string>
+    <string name="filter_completed">ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="ai_assistant">AI ಸಹಾಯಕ</string>
+    <string name="ai_analysis">AI ವಿಶ್ಲೇಷಣೆ</string>
+    <string name="ask_ai">AI ಸಹಾಯಕರನ್ನು ಕೇಳಿ</string>
+    <string name="ai_mock_response">ಪ್ರಸ್ತುತ %1$d%% ಪ್ರಗತಿ ಮತ್ತು %2$s ಬಜೆಟ್ ಆಧರಿಸಿ, ಈ ಯೋಜನೆಯು ಅದರ %3$s ಗಡುವನ್ನು ತಲುಪುವ ಹಾದಿಯಲ್ಲಿದೆ. ಗುಣಮಟ್ಟವು ಸ್ಥಳೀಯ ಮಾನದಂಡಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ಕಂಡುಬರುತ್ತದೆ.</string>
+    <string name="run_ai_visual_scan">AI ದೃಶ್ಯ ಸ್ಕ್ಯಾನ್ ಚಲಾಯಿಸಿ</string>
+    <string name="ai_upload_latest">AI: ಇತ್ತೀಚಿನ ಸೈಟ್ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="ai_analyzing">AI ಯೋಜನೆಯ ಸೈಟ್ ಫೋಟೋಗಳನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತಿದೆ...</string>
+    <string name="ai_verification_success">AI ಪರಿಶೀಲನೆ: ಕೆಲಸದ ಗುಣಮಟ್ಟವು ಮಾನದಂಡಗಳನ್ನು ಮೀರಿದೆ. ಯಾವುದೇ ದೋಷಗಳು ಪತ್ತೆಯಾಗಿಲ್ಲ.</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="email_phone">ಇಮೇಲ್ ಅಥವಾ ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="select_language">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="english">ಇಂಗ್ಲೀಷ್</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="welcome">ಕರ್ನಾಟಕ ಗ್ರಾಮ-ಸುವಿಧಾ ಪೋರ್ಟಲ್‌ಗೆ ಸುಸ್ವಾಗತ</string>
+    <string name="location">ಸ್ಥಳ:</string>
+</resources>
